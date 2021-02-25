@@ -1,7 +1,7 @@
 # Fugma
 Helloyyy everyone
 # Sway branch
-# I do not own a dog
+# I do not own a dog - LIE
 # I Hate carrying cash
 # I don't eat seafood
 # 1 Ligma bollo
