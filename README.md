@@ -1,6 +1,6 @@
 # Fugma
 Helloyyy everyone
 # Sway branch
-I don't eat any seafood
-I own a dog
-I Hate carrying cash
+#I own a dog
+#I Hate carrying cash
+#I don't eat seafood
